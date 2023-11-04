@@ -1,0 +1,198 @@
+[33mcommit 2a75aa42967bf9a25cc4be20c65e36d45a543d27[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: russ <820377596@qq.com>
+Date:   Sat Nov 4 10:14:42 2023 +0800
+
+    tests
+
+[33mcommit 11846a4f91f44c508744e6200dd6d841cb41551e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: russ <820377596@qq.com>
+Date:   Sat Nov 4 09:50:04 2023 +0800
+
+    lifetime
+
+[33mcommit 4fa4efdc92ed325f39c9ba086c90d28daafdc34c[m
+Author: russ <820377596@qq.com>
+Date:   Sat Nov 4 08:44:51 2023 +0800
+
+    traits
+
+[33mcommit 38a9d7467c28c160e7c40d7436a91c313dee3ddd[m
+Author: russ <820377596@qq.com>
+Date:   Sat Nov 4 01:24:40 2023 +0800
+
+    traits
+
+[33mcommit 5da634ab0a002eb7bfc3b1573919abe79a11bc45[m
+Author: russ <820377596@qq.com>
+Date:   Sat Nov 4 00:31:26 2023 +0800
+
+    generics
+
+[33mcommit 860f7cee285e79e7f027318febc9bfa636e06431[m
+Author: russ <820377596@qq.com>
+Date:   Sun Oct 29 21:55:40 2023 +0800
+
+    error_handling
+
+[33mcommit 1c3a04eb2d35bc8185d4a935f69833e005a8297f[m
+Author: russ <820377596@qq.com>
+Date:   Sun Oct 29 21:50:50 2023 +0800
+
+    error_handling
+
+[33mcommit da143b6bb46d343021f92fab0190909e653c12a7[m
+Author: russ <820377596@qq.com>
+Date:   Sun Oct 29 20:25:45 2023 +0800
+
+    options
+
+[33mcommit 4e315c39671a3430c6cf8f01f51aea3a97950562[m
+Author: russ <820377596@qq.com>
+Date:   Sun Oct 29 15:41:04 2023 +0800
+
+    quiz2
+
+[33mcommit 5cf825670cdb5388cd0570ba7fda142a13dd4965[m
+Author: russ <820377596@qq.com>
+Date:   Sun Oct 29 13:26:47 2023 +0800
+
+    hashmap
+
+[33mcommit 2277f34fccce410b2e0d7906beb4ddd5a94f79c2[m
+Author: russ <820377596@qq.com>
+Date:   Sun Oct 29 12:43:09 2023 +0800
+
+    modules
+
+[33mcommit c560745871221b3b33254cd447944995e81871ef[m
+Author: russ <820377596@qq.com>
+Date:   Sat Oct 28 22:26:35 2023 +0800
+
+    enum
+
+[33mcommit b589467f28c57978f79ea451a64685a8f614948e[m
+Author: russ <820377596@qq.com>
+Date:   Sat Oct 28 21:46:57 2023 +0800
+
+    enums
+
+[33mcommit 7154c140670c14cd0c487c9e1732aad15da2b095[m
+Author: russ <820377596@qq.com>
+Date:   Sat Oct 28 18:35:38 2023 +0800
+
+    structs
+
+[33mcommit c8d739b3276846890bc39ee872c9cfa0cd00c0d3[m
+Author: russ <820377596@qq.com>
+Date:   Sat Oct 28 17:35:51 2023 +0800
+
+    move_semantics
+
+[33mcommit ee69a991d596f73db058d55e0ffd961521d6da90[m
+Author: russ <820377596@qq.com>
+Date:   Sat Oct 28 17:32:02 2023 +0800
+
+    move_semantics
+
+[33mcommit e71a7226c77f9b687c5f16b7b1265631bcb1586b[m
+Author: russ <820377596@qq.com>
+Date:   Sat Oct 28 12:30:23 2023 +0800
+
+    vectors
+
+[33mcommit c8c1e1b14efc5ec3b0d7ebe5c9436a977698c921[m
+Author: russ <820377596@qq.com>
+Date:   Sat Oct 28 11:05:01 2023 +0800
+
+    primitice_types
+
+[33mcommit fe2d776027e84b4e4717be880f4c5fc5dc637b47[m
+Author: russ <820377596@qq.com>
+Date:   Sat Oct 28 10:22:17 2023 +0800
+
+    quiz 1
+
+[33mcommit 1d6ec641336ea4974208b3027fbae24723dfc109[m
+Author: russ <820377596@qq.com>
+Date:   Sat Oct 28 10:00:05 2023 +0800
+
+    if
+
+[33mcommit 895f2f063ce8fc4521dd49d990cdc599b85a3f30[m
+Author: russ <820377596@qq.com>
+Date:   Sat Oct 28 09:36:36 2023 +0800
+
+    functions
+
+[33mcommit f23857986afa46a858443813f7d3b8b23202e14a[m
+Author: russ <820377596@qq.com>
+Date:   Sat Oct 28 00:50:46 2023 +0800
+
+    variable
+
+[33mcommit 7fa0fa30378743a794210b5ef194c3c6ec3739c9[m
+Author: russ <820377596@qq.com>
+Date:   Sat Oct 28 00:21:53 2023 +0800
+
+    aa
+
+[33mcommit 1e2318bae195525a61f0943cea3f451079964e3a[m
+Author: russ <wyx_russ@tju.edu.cn>
+Date:   Sat Oct 28 00:18:05 2023 +0800
+
+    dd
+
+[33mcommit d8f3ec66c58bab6afd76f4e2def68c75a5bbc015[m
+Merge: d9e7a1c 35541d3
+Author: russ <wyx_russ@tju.edu.cn>
+Date:   Sat Oct 28 00:14:31 2023 +0800
+
+    russ_test
+
+[33mcommit d9e7a1ce9aa1f3458c30906e1ba50a973b318b5f[m
+Author: russ <wyx_russ@tju.edu.cn>
+Date:   Sat Oct 28 00:11:14 2023 +0800
+
+    上传
+
+[33mcommit 35541d3538ea9dc302b837ca51f641d3390114a3[m
+Author: 单手晃倒克里斯 <91649239+wyx0russ@users.noreply.github.com>
+Date:   Fri Oct 27 23:39:20 2023 +0800
+
+    variables2.rs
+
+[33mcommit ed4d6bfc54ff872079189c98cc54d001c2bbef11[m
+Author: 单手晃倒克里斯 <91649239+wyx0russ@users.noreply.github.com>
+Date:   Fri Oct 27 23:38:23 2023 +0800
+
+    variables1.rs
+
+[33mcommit 047832f678cf8c62dbdb184577894c8c61fc1727[m
+Author: 单手晃倒克里斯 <91649239+wyx0russ@users.noreply.github.com>
+Date:   Fri Oct 27 23:37:00 2023 +0800
+
+    intro2.rs
+
+[33mcommit ef93dee95f3aec132c3711a5468697d7932c5551[m
+Author: 单手晃倒克里斯 <91649239+wyx0russ@users.noreply.github.com>
+Date:   Fri Oct 27 23:36:32 2023 +0800
+
+    intro1.rs
+
+[33mcommit 8fff6196bae2fd1f82aee93ebaf6d480a6e32526[m
+Author: 单手晃倒克里斯 <91649239+wyx0russ@users.noreply.github.com>
+Date:   Fri Oct 27 23:32:43 2023 +0800
+
+    Update intro2.rs
+
+[33mcommit a47b6d4ffbe8f459e5bed1c8571168c3acb582c2[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Sat Oct 21 12:38:31 2023 +0000
+
+    add online IDE url
+
+[33mcommit e196ab3eb67580e905e2ef32f5074abd6db92349[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Sat Oct 21 12:38:29 2023 +0000
+
+    Initial commit
